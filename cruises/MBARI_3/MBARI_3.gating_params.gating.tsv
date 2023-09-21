@@ -1,0 +1,21 @@
+id	date	pop_order	pop	method	channel1	channel2	gate1	gate2	position1	position2	scale	minpe
+d73889e1-a4bd-4e8c-879e-f4df8f9741b6	2018-10-16T20:55:30+00:00	1	beads	manual	fsc_small	pe						
+d73889e1-a4bd-4e8c-879e-f4df8f9741b6	2018-10-16T20:55:30+00:00	2	synecho	manual	fsc_small	pe						
+d73889e1-a4bd-4e8c-879e-f4df8f9741b6	2018-10-16T20:55:30+00:00	3	prochloro	auto	fsc_small	chl_small	1.0	0.4	0	1	0.975	1.0
+d73889e1-a4bd-4e8c-879e-f4df8f9741b6	2018-10-16T20:55:30+00:00	4	picoeuk	manual	fsc_small	chl_small						
+e19c8bd3-139c-41d5-95bb-7a735ffcfe9c	2018-10-16T22:43:50+00:00	1	beads	manual	fsc_small	pe						
+e19c8bd3-139c-41d5-95bb-7a735ffcfe9c	2018-10-16T22:43:50+00:00	2	synecho	manual	fsc_small	pe						
+e19c8bd3-139c-41d5-95bb-7a735ffcfe9c	2018-10-16T22:43:50+00:00	3	prochloro	auto	fsc_small	chl_small	1.0	0.3	0	1	0.99	1.0
+e19c8bd3-139c-41d5-95bb-7a735ffcfe9c	2018-10-16T22:43:50+00:00	4	picoeuk	manual	fsc_small	chl_small						
+a86fb1ae-56ed-431e-a498-804ef98fede5	2018-10-16T23:41:07+00:00	1	beads	manual	fsc_small	pe						
+a86fb1ae-56ed-431e-a498-804ef98fede5	2018-10-16T23:41:07+00:00	2	synecho	manual	fsc_small	pe						
+a86fb1ae-56ed-431e-a498-804ef98fede5	2018-10-16T23:41:07+00:00	3	prochloro	manual	fsc_small	chl_small						
+a86fb1ae-56ed-431e-a498-804ef98fede5	2018-10-16T23:41:07+00:00	4	picoeuk	manual	fsc_small	chl_small						
+f8a904a3-923c-4ce6-9d61-dc7e25cab5db	2018-10-17T15:45:30+00:00	1	beads	manual	fsc_small	pe						
+f8a904a3-923c-4ce6-9d61-dc7e25cab5db	2018-10-17T15:45:30+00:00	2	synecho	manual	fsc_small	pe						
+f8a904a3-923c-4ce6-9d61-dc7e25cab5db	2018-10-17T15:45:30+00:00	3	prochloro	manual	fsc_small	chl_small						
+f8a904a3-923c-4ce6-9d61-dc7e25cab5db	2018-10-17T15:45:30+00:00	4	picoeuk	manual	fsc_small	chl_small						
+bdef015a-f957-48bc-be75-ab80ed0b1859	2018-10-17T16:08:02+00:00	1	beads	manual	fsc_small	pe						
+bdef015a-f957-48bc-be75-ab80ed0b1859	2018-10-17T16:08:02+00:00	2	synecho	manual	fsc_small	pe						
+bdef015a-f957-48bc-be75-ab80ed0b1859	2018-10-17T16:08:02+00:00	3	prochloro	manual	fsc_small	chl_small						
+bdef015a-f957-48bc-be75-ab80ed0b1859	2018-10-17T16:08:02+00:00	4	picoeuk	manual	fsc_small	chl_small						

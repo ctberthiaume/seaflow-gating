@@ -1,0 +1,13 @@
+id	date	pop_order	pop	method	channel1	channel2	gate1	gate2	position1	position2	scale	minpe
+f737fd80-bcc0-4e9d-8727-c66c4fc3411d	2018-10-05T09:00:43.652621+00:00	1	beads	manual	fsc_small	pe						
+f737fd80-bcc0-4e9d-8727-c66c4fc3411d	2018-10-05T09:00:43.652621+00:00	2	synecho	manual	fsc_small	pe						
+f737fd80-bcc0-4e9d-8727-c66c4fc3411d	2018-10-05T09:00:43.652621+00:00	3	prochloro	auto	fsc_small	chl_small	1.4	0.5	0	1	0.975	1.2
+f737fd80-bcc0-4e9d-8727-c66c4fc3411d	2018-10-05T09:00:43.652621+00:00	4	picoeuk	manual	fsc_small	chl_small						
+38349c8d-eecd-44e1-8a10-ea7ee8a299f5	2018-10-05T09:04:14.251842+00:00	1	beads	manual	fsc_small	pe						
+38349c8d-eecd-44e1-8a10-ea7ee8a299f5	2018-10-05T09:04:14.251842+00:00	2	synecho	manual	fsc_small	pe						
+38349c8d-eecd-44e1-8a10-ea7ee8a299f5	2018-10-05T09:04:14.251842+00:00	3	prochloro	auto	fsc_small	chl_small	1.4	0.5	0	1	0.975	1.2
+38349c8d-eecd-44e1-8a10-ea7ee8a299f5	2018-10-05T09:04:14.251842+00:00	4	picoeuk	manual	fsc_small	chl_small						
+64b691a6-d7f6-440d-915d-7435c9eabac4	2018-10-05T11:46:22.434137+00:00	1	beads	manual	fsc_small	pe						
+64b691a6-d7f6-440d-915d-7435c9eabac4	2018-10-05T11:46:22.434137+00:00	2	synecho	manual	fsc_small	pe						
+64b691a6-d7f6-440d-915d-7435c9eabac4	2018-10-05T11:46:22.434137+00:00	3	prochloro	manual	fsc_small	chl_small						
+64b691a6-d7f6-440d-915d-7435c9eabac4	2018-10-05T11:46:22.434137+00:00	4	picoeuk	manual	fsc_small	chl_small						

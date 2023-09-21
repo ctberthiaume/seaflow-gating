@@ -1,0 +1,20 @@
+id	date	pop_order	pop	method	channel1	channel2	gate1	gate2	position1	position2	scale	minpe
+d16ebafc-8a10-49a9-bce1-2ed6cfb8262b	2018-12-19T00:45:53+00:00	1	beads	manual	fsc_small	pe						
+d16ebafc-8a10-49a9-bce1-2ed6cfb8262b	2018-12-19T00:45:53+00:00	2	synecho	manual	fsc_small	pe						
+d16ebafc-8a10-49a9-bce1-2ed6cfb8262b	2018-12-19T00:45:53+00:00	3	croco	manual	fsc_small	pe						
+d16ebafc-8a10-49a9-bce1-2ed6cfb8262b	2018-12-19T00:45:53+00:00	4	picoeuk	manual	fsc_small	chl_small						
+1d6d4947-c25e-419b-bc38-f486d0e53880	2018-12-19T19:02:48+00:00	1	beads	manual	fsc_small	pe						
+1d6d4947-c25e-419b-bc38-f486d0e53880	2018-12-19T19:02:48+00:00	2	synecho	manual	fsc_small	pe						
+1d6d4947-c25e-419b-bc38-f486d0e53880	2018-12-19T19:02:48+00:00	3	croco	manual	fsc_small	pe						
+1d6d4947-c25e-419b-bc38-f486d0e53880	2018-12-19T19:02:48+00:00	4	prochloro	manual	fsc_small	chl_small						
+1d6d4947-c25e-419b-bc38-f486d0e53880	2018-12-19T19:02:48+00:00	5	picoeuk	manual	fsc_small	chl_small						
+34576653-f992-4cab-b7dd-c78b0d2894fb	2018-12-19T19:39:17+00:00	1	beads	manual	fsc_small	pe						
+34576653-f992-4cab-b7dd-c78b0d2894fb	2018-12-19T19:39:17+00:00	2	synecho	manual	fsc_small	pe						
+34576653-f992-4cab-b7dd-c78b0d2894fb	2018-12-19T19:39:17+00:00	3	croco	manual	fsc_small	pe						
+34576653-f992-4cab-b7dd-c78b0d2894fb	2018-12-19T19:39:17+00:00	4	prochloro	auto	fsc_small	chl_small	1.5	0.75	0	1	0.975	
+34576653-f992-4cab-b7dd-c78b0d2894fb	2018-12-19T19:39:17+00:00	5	picoeuk	manual	fsc_small	chl_small						
+87b34eda-a791-4260-ad62-c6620cc5b98b	2018-12-19T20:43:45+00:00	1	beads	manual	fsc_small	pe						
+87b34eda-a791-4260-ad62-c6620cc5b98b	2018-12-19T20:43:45+00:00	2	synecho	manual	fsc_small	pe						
+87b34eda-a791-4260-ad62-c6620cc5b98b	2018-12-19T20:43:45+00:00	3	croco	manual	fsc_small	pe						
+87b34eda-a791-4260-ad62-c6620cc5b98b	2018-12-19T20:43:45+00:00	4	prochloro	auto	fsc_small	chl_small	1.5	0.3	0	1	0.975	1.5
+87b34eda-a791-4260-ad62-c6620cc5b98b	2018-12-19T20:43:45+00:00	5	picoeuk	manual	fsc_small	chl_small						
