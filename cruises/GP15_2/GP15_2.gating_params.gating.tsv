@@ -161,3 +161,63 @@ ce3ead64-2bb3-4393-9107-06bd6f97dddb	2019-12-03T00:07:57+00:00	5	picoeuk	manual	
 81afcc8d-2b94-44f6-b7be-e7edc0c78b10	2019-12-03T01:02:24+00:00	3	croco	manual	chl_small	pe						
 81afcc8d-2b94-44f6-b7be-e7edc0c78b10	2019-12-03T01:02:24+00:00	4	prochloro	auto	fsc_small	chl_small	1.3	1.75	0	0	0.99	
 81afcc8d-2b94-44f6-b7be-e7edc0c78b10	2019-12-03T01:02:24+00:00	5	picoeuk	manual	fsc_small	chl_small						
+a0eb4017-11e3-4e10-a17d-06219c4bc6dc	2023-11-27T21:32:12+00:00	1	beads	manual	chl_small	pe						
+a0eb4017-11e3-4e10-a17d-06219c4bc6dc	2023-11-27T21:32:12+00:00	2	synecho	manual	fsc_small	pe						
+a0eb4017-11e3-4e10-a17d-06219c4bc6dc	2023-11-27T21:32:12+00:00	3	croco	manual	chl_small	pe						
+a0eb4017-11e3-4e10-a17d-06219c4bc6dc	2023-11-27T21:32:12+00:00	4	prochloro	auto	fsc_small	chl_small	1.4	0.3	0	1	0.975	
+a0eb4017-11e3-4e10-a17d-06219c4bc6dc	2023-11-27T21:32:12+00:00	5	picoeuk	manual	fsc_small	chl_small						
+69bc816f-5e1f-4943-b1d0-27a3104a3fad	2023-11-27T21:33:52+00:00	1	beads	manual	chl_small	pe						
+69bc816f-5e1f-4943-b1d0-27a3104a3fad	2023-11-27T21:33:52+00:00	2	synecho	manual	fsc_small	pe						
+69bc816f-5e1f-4943-b1d0-27a3104a3fad	2023-11-27T21:33:52+00:00	3	croco	manual	chl_small	pe						
+69bc816f-5e1f-4943-b1d0-27a3104a3fad	2023-11-27T21:33:52+00:00	4	prochloro	auto	fsc_small	chl_small	1.4	0.3	0	1	0.99	
+69bc816f-5e1f-4943-b1d0-27a3104a3fad	2023-11-27T21:33:52+00:00	5	picoeuk	manual	fsc_small	chl_small						
+b6894b1d-3fb2-4232-8203-13a0a361a677	2023-11-27T21:36:23+00:00	1	beads	manual	chl_small	pe						
+b6894b1d-3fb2-4232-8203-13a0a361a677	2023-11-27T21:36:23+00:00	2	synecho	manual	pe	chl_small						
+b6894b1d-3fb2-4232-8203-13a0a361a677	2023-11-27T21:36:23+00:00	3	croco	manual	chl_small	pe						
+b6894b1d-3fb2-4232-8203-13a0a361a677	2023-11-27T21:36:23+00:00	4	prochloro	auto	fsc_small	chl_small	1.3	1.75	0	0	0.99	
+b6894b1d-3fb2-4232-8203-13a0a361a677	2023-11-27T21:36:23+00:00	5	picoeuk	manual	fsc_small	chl_small						
+8d8f7b17-c213-4886-bc8a-83bc24de0bf9	2023-11-27T21:37:55+00:00	1	beads	manual	chl_small	pe						
+8d8f7b17-c213-4886-bc8a-83bc24de0bf9	2023-11-27T21:37:55+00:00	2	synecho	manual	fsc_small	pe						
+8d8f7b17-c213-4886-bc8a-83bc24de0bf9	2023-11-27T21:37:55+00:00	3	croco	manual	chl_small	pe						
+8d8f7b17-c213-4886-bc8a-83bc24de0bf9	2023-11-27T21:37:55+00:00	4	prochloro	auto	fsc_small	chl_small	1.5	0.3	0	1	0.99	
+8d8f7b17-c213-4886-bc8a-83bc24de0bf9	2023-11-27T21:37:55+00:00	5	picoeuk	manual	fsc_small	chl_small						
+035ca5d6-1534-44a9-8bf5-6937ccfd5731	2023-11-27T21:39:52+00:00	1	beads	manual	chl_small	pe						
+035ca5d6-1534-44a9-8bf5-6937ccfd5731	2023-11-27T21:39:52+00:00	2	synecho	manual	fsc_small	pe						
+035ca5d6-1534-44a9-8bf5-6937ccfd5731	2023-11-27T21:39:52+00:00	3	croco	manual	chl_small	pe						
+035ca5d6-1534-44a9-8bf5-6937ccfd5731	2023-11-27T21:39:52+00:00	4	prochloro	auto	fsc_small	chl_small	1.5	0.3	0	1	0.99	
+035ca5d6-1534-44a9-8bf5-6937ccfd5731	2023-11-27T21:39:52+00:00	5	picoeuk	manual	fsc_small	chl_small						
+f8b909c8-a396-4aa8-9d30-5d4fb5c58048	2023-11-27T21:41:11+00:00	1	beads	manual	chl_small	pe						
+f8b909c8-a396-4aa8-9d30-5d4fb5c58048	2023-11-27T21:41:11+00:00	2	synecho	manual	fsc_small	pe						
+f8b909c8-a396-4aa8-9d30-5d4fb5c58048	2023-11-27T21:41:11+00:00	3	croco	manual	chl_small	pe						
+f8b909c8-a396-4aa8-9d30-5d4fb5c58048	2023-11-27T21:41:11+00:00	4	prochloro	auto	fsc_small	chl_small	1.3	1.75	0	0	0.975	
+f8b909c8-a396-4aa8-9d30-5d4fb5c58048	2023-11-27T21:41:11+00:00	5	picoeuk	manual	fsc_small	chl_small						
+4fc9bc5d-f7ac-446e-a392-4cff7ec5a338	2023-11-27T21:43:50+00:00	1	beads	manual	chl_small	pe						
+4fc9bc5d-f7ac-446e-a392-4cff7ec5a338	2023-11-27T21:43:50+00:00	2	synecho	manual	fsc_small	pe						
+4fc9bc5d-f7ac-446e-a392-4cff7ec5a338	2023-11-27T21:43:50+00:00	3	croco	manual	chl_small	pe						
+4fc9bc5d-f7ac-446e-a392-4cff7ec5a338	2023-11-27T21:43:50+00:00	4	prochloro	auto	fsc_small	chl_small	1.4	0.3	0	1	0.99	
+4fc9bc5d-f7ac-446e-a392-4cff7ec5a338	2023-11-27T21:43:50+00:00	5	picoeuk	manual	fsc_small	chl_small						
+0f94a05d-069f-4224-b410-016ca19b2ed1	2023-11-27T21:46:30+00:00	1	beads	manual	chl_small	pe						
+0f94a05d-069f-4224-b410-016ca19b2ed1	2023-11-27T21:46:30+00:00	2	synecho	manual	fsc_small	pe						
+0f94a05d-069f-4224-b410-016ca19b2ed1	2023-11-27T21:46:30+00:00	3	croco	manual	chl_small	pe						
+0f94a05d-069f-4224-b410-016ca19b2ed1	2023-11-27T21:46:30+00:00	4	prochloro	auto	fsc_small	chl_small	1.6	0.3	0	1	0.95	
+0f94a05d-069f-4224-b410-016ca19b2ed1	2023-11-27T21:46:30+00:00	5	picoeuk	manual	fsc_small	chl_small						
+492e6255-cb3a-4040-9c69-a68ea5a1a531	2023-11-27T21:48:22+00:00	1	beads	manual	chl_small	pe						
+492e6255-cb3a-4040-9c69-a68ea5a1a531	2023-11-27T21:48:22+00:00	2	synecho	manual	fsc_small	pe						
+492e6255-cb3a-4040-9c69-a68ea5a1a531	2023-11-27T21:48:22+00:00	3	croco	manual	chl_small	pe						
+492e6255-cb3a-4040-9c69-a68ea5a1a531	2023-11-27T21:48:22+00:00	4	prochloro	auto	fsc_small	chl_small	1.4	0.3	0	1	0.975	
+492e6255-cb3a-4040-9c69-a68ea5a1a531	2023-11-27T21:48:22+00:00	5	picoeuk	manual	fsc_small	chl_small						
+5762ab04-b5a9-4e60-ad0c-cdc7a0697051	2023-11-27T21:49:43+00:00	1	beads	manual	chl_small	pe						
+5762ab04-b5a9-4e60-ad0c-cdc7a0697051	2023-11-27T21:49:43+00:00	2	synecho	manual	fsc_small	pe						
+5762ab04-b5a9-4e60-ad0c-cdc7a0697051	2023-11-27T21:49:43+00:00	3	croco	manual	chl_small	pe						
+5762ab04-b5a9-4e60-ad0c-cdc7a0697051	2023-11-27T21:49:43+00:00	4	prochloro	auto	fsc_small	chl_small	1.35	0.5	0	1	0.975	
+5762ab04-b5a9-4e60-ad0c-cdc7a0697051	2023-11-27T21:49:43+00:00	5	picoeuk	manual	fsc_small	chl_small						
+0758ce1a-7444-4f68-8adb-9101c12f47a9	2023-11-27T21:51:03+00:00	1	beads	manual	chl_small	pe						
+0758ce1a-7444-4f68-8adb-9101c12f47a9	2023-11-27T21:51:03+00:00	2	synecho	manual	pe	chl_small						
+0758ce1a-7444-4f68-8adb-9101c12f47a9	2023-11-27T21:51:03+00:00	3	croco	manual	chl_small	pe						
+0758ce1a-7444-4f68-8adb-9101c12f47a9	2023-11-27T21:51:03+00:00	4	prochloro	auto	fsc_small	chl_small	1.4	0.9	0	1	0.975	
+0758ce1a-7444-4f68-8adb-9101c12f47a9	2023-11-27T21:51:03+00:00	5	picoeuk	manual	fsc_small	chl_small						
+9c447012-a1c5-425e-a432-23c96fac92ef	2023-11-27T21:52:44+00:00	1	beads	manual	chl_small	pe						
+9c447012-a1c5-425e-a432-23c96fac92ef	2023-11-27T21:52:44+00:00	2	synecho	manual	fsc_small	pe						
+9c447012-a1c5-425e-a432-23c96fac92ef	2023-11-27T21:52:44+00:00	3	croco	manual	chl_small	pe						
+9c447012-a1c5-425e-a432-23c96fac92ef	2023-11-27T21:52:44+00:00	4	prochloro	auto	fsc_small	chl_small	1.3	0.8	0	1	0.95	
+9c447012-a1c5-425e-a432-23c96fac92ef	2023-11-27T21:52:44+00:00	5	picoeuk	manual	fsc_small	chl_small						
